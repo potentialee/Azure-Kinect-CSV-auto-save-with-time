@@ -1,1 +1,1 @@
-# Azure-Kinect-CSV-save-cpp
+# Azure-Kinect-CSV-auto-save-cpp
